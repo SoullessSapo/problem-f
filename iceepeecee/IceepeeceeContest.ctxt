@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IceepeeceeContest
+comment0.text=\r\n\ clase\ que\ resuelve\ el\ problema\ de\ la\ maraton.\r\n\ \r\n\ @author\ Andrea\ Camila\ Torres\r\n\ @author\ Esteban\ Valencia\r\n\ @version\ 1.2\r\n
+comment1.params=islands\ flights
+comment1.target=float\ solve(int[][][],\ int[][][])
+comment1.text=\r\n\ metodo\ que\ resuelve\ el\ problem\ F.\r\n\ @param\ int[][][]\ islands\ cubo\ con\ los\ vertices\ de\ las\ islas.\r\n\ @param\ int[][][]\ flights\ cubo\ con\ los\ vuelos.\r\n\ @return\ float\ result\ el\ angulo\ minimo\ para\ fotografiar\ las\ islas.\r\n
+comment2.params=islands\ flights
+comment2.target=void\ simulate(int[][][],\ int[][][])
+comment2.text=\r\n\ metodo\ que\ muestra\ la\ soluci\u00F3n\ al\ problem\ f.\r\n\ @param\ int[][][]\ islands\ cubo\ con\ los\ vertices\ de\ las\ islas.\r\n\ @param\ int[][][]\ flights\ cubo\ con\ los\ vuelos.\r\n
+numComments=3

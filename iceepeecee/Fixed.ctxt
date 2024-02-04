@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fixed
+comment0.text=\r\n\ Class\ Fixed\ Island\r\n\ \r\n\ @author\ Andrea\ Camila\ Torres\ -\ Esteban\ Valencia\ \r\n\ @version\ 2.0\r\n
+comment1.params=polygon\ newColor
+comment1.target=Fixed(int[][],\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fixed\r\n
+comment2.params=
+comment2.target=int[][]\ getLocation()
+comment2.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ localizaci\u00F3n\ de\ la\ isla.\r\n
+comment3.params=
+comment3.target=boolean\ canErase()
+comment3.text=\r\n\ M\u00E9todo\ para\ verificar\ si\ la\ isla\ se\ puede\ borrar.\r\n
+numComments=4

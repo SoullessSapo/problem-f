@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Surprising
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Surprising\ here.\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=polygon\ newColor
+comment1.target=Surprising(int[][],\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Surprising\r\n
+comment2.params=
+comment2.target=int[][]\ getLocation()
+comment2.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ localizaci\u00F3n\ de\ la\ isla\ pierde\ un\ vertice\ cada\ vez\ que\ se\ llama.\r\n\ @return\ localizaci\u00F3n\ de\ la\ isla.\r\n
+comment3.params=
+comment3.target=void\ eraseVertex()
+comment3.text=\r\n\ M\u00E9todo\ para\ eliminar\ un\ vertice\ de\ la\ isla.\r\n
+comment4.params=
+comment4.target=boolean\ canErase()
+comment4.text=\r\n\ M\u00E9todo\ para\ verificar\ si\ la\ isla\ puede\ ser\ eliminada.\r\n
+numComments=5

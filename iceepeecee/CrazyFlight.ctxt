@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CrazyFlight
+comment0.text=\r\n\ In\ this\ class\ we\ solved\ the\ problem\ F.\r\n\r\n\ @author\ Andrea\ Camila\ Torres\r\n\ @author\ Esteban\ Valencia\r\n\ @version\ 2.0\r\n
+comment1.params=Newidentifier\ from\ to
+comment1.target=CrazyFlight(java.lang.String,\ int[],\ int[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ crazyFlight\r\n
+comment2.params=
+comment2.target=void\ setIsPhotograph()
+comment2.text=\r\n\ obtiene\ si\ el\ vuelo\ es\ fotografiado.\r\n
+comment3.params=from\ to
+comment3.target=boolean\ verifyAltitude(int[],\ int[])
+comment3.text=\r\n\ verifica\ la\ altura\ del\ vuelo.\r\n
+numComments=4
